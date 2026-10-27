@@ -29,4 +29,4 @@ Add a screenshot of the completed dashboard here.
 - Dashboard screenshot
 
 ## Disclaimer
-Portfolio project for demonstration and learning purposes. Only share datasets you have permission to distribute.
+Portfolio project for demonstration and learning purposes.
