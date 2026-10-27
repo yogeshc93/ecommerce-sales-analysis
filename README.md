@@ -1,4 +1,5 @@
 # E-Commerce Sales Analysis Dashboard
+![E-Commerce Sales Dashboard](E-Commerce%20Sales%20Analysis%20Dashboard.jpg)
 
 ## Project Overview
 An Excel-based dashboard created to analyse e-commerce sales performance and identify business trends.
