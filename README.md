@@ -1,6 +1,6 @@
-# E-Commerce Sales Analysis Dashboard
+<img width="1893" height="889" alt="image" src="https://github.com/user-attachments/assets/4cd921fb-984e-41cf-b0ea-323bdb0e2e0b" /># E-Commerce Sales Analysis Dashboard
 
-![E-Commerce Sales Dashboard](your-dashboard-image.png)
+![E-Commerce Sales Dashboard](ecommerce-dashboard.png)
 
 ## Project Overview
 An Excel-based dashboard created to analyse e-commerce sales performance and identify business trends.
